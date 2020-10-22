@@ -1,7 +1,7 @@
 body {
     background: #e0ece4;
     color: #575F7D;
-    font-family: 'Lora', serif;
+    font-family: 'Roboto', Mono;
     font-size: 17px;
     font-weight: lighter;
 }
@@ -23,5 +23,4 @@ h2, h3, h4, h5 {
 p {
   font-size: 13px;
 }
-
 
